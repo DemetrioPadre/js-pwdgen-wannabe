@@ -8,10 +8,10 @@ console.log(cognome);
 
 // Chiedi all utente quale colore
 const prefcolor = prompt('Quale è il tuo colore preferito');
-console.log(prefcolor);
+console.log(prefColor);
 
 // password +23
-const password = nome + cognome + prefcolor + '23';
+const password = nome + cognome + prefColor + '23';
 console.log(password);
 
 //alert

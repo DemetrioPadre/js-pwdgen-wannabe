@@ -10,14 +10,13 @@ console.log(cognome);
 const prefcolor = prompt('Quale è il tuo colore preferito');
 console.log(prefcolor);
 
-
 // password +23
-let password = nome + cognome + prefcolor + '23';
+const password = nome + cognome + prefcolor + '23';
 console.log(password);
 
 //alert
 
-alert('La tua password generata è molto insicura   ' + password);
+alert('La tua password generata è molto insicura, ma è' + password);
 
 
 

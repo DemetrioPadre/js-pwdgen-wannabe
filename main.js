@@ -7,7 +7,7 @@ const cognome = prompt('Utente inserisci il tuo cognome');
 console.log(cognome);
 
 // Chiedi all utente quale colore
-const prefcolor = prompt('Quale è il tuo colore preferito');
+const prefColor = prompt('Quale è il tuo colore preferito');
 console.log(prefColor);
 
 // password +23

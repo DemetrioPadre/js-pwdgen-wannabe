@@ -17,7 +17,7 @@ console.log(password);
 
 //alert
 
-alert('La tua password è  ' + password);
+alert('La tua password generata è molto insicura   ' + password);
 
 
 
